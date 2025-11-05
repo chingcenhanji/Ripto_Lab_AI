@@ -1,5 +1,5 @@
-nama : kevin huang
-npm : 2331241
+nama : RIpto
+npm : 2331020
 kelas : 5PSIA
 
 versi paket utama
